@@ -1,0 +1,11 @@
+de.blinkt.openvpn.vpnLib-core-1.1.0-0 C:\Users\Hp\.gradle\caches\transforms-3\94a68d83de021c57da34fbfeb77b4b8a\transformed\core-1.1.0\res
+de.blinkt.openvpn.vpnLib-jetified-appcompat-resources-1.1.0-1 C:\Users\Hp\.gradle\caches\transforms-3\bbdc355e551117cc5f09c85cffc6b796\transformed\jetified-appcompat-resources-1.1.0\res
+de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2 C:\Users\Hp\.gradle\caches\transforms-3\c08e0d4f8bf749d5a9c0b891a414cade\transformed\appcompat-1.1.0\res
+de.blinkt.openvpn.vpnLib-main-3 C:\Users\Hp\Desktop\VPN\vpn-basic-project\android\vpnLib\src\main\res
+de.blinkt.openvpn.vpnLib-release-4 C:\Users\Hp\Desktop\VPN\vpn-basic-project\android\vpnLib\src\release\res
+de.blinkt.openvpn.vpnLib-pngs-5 C:\Users\Hp\Desktop\VPN\vpn-basic-project\build\vpnLib\generated\res\pngs\release
+de.blinkt.openvpn.vpnLib-resValues-6 C:\Users\Hp\Desktop\VPN\vpn-basic-project\build\vpnLib\generated\res\resValues\release
+de.blinkt.openvpn.vpnLib-rs-7 C:\Users\Hp\Desktop\VPN\vpn-basic-project\build\vpnLib\generated\res\rs\release
+de.blinkt.openvpn.vpnLib-mergeReleaseResources-8 C:\Users\Hp\Desktop\VPN\vpn-basic-project\build\vpnLib\intermediates\incremental\release\mergeReleaseResources\merged.dir
+de.blinkt.openvpn.vpnLib-mergeReleaseResources-9 C:\Users\Hp\Desktop\VPN\vpn-basic-project\build\vpnLib\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+de.blinkt.openvpn.vpnLib-merged_res-10 C:\Users\Hp\Desktop\VPN\vpn-basic-project\build\vpnLib\intermediates\merged_res\release

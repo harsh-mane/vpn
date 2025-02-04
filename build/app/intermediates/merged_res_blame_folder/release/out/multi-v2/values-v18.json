@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.harshMane.secureSphere.app-mergeReleaseResources-40:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\740a8a7b84ec2db84d281e8e427eaeba\\transformed\\appcompat-1.2.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

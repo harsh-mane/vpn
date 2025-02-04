@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_list_menu_item_layout.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_alert_dialog_material.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_action_menu_item_layout.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_action_mode_close_item_material.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_action_mode_bar.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_screen_content_include.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_dialog_title_material.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_screen_toolbar.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_tooltip.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_cascading_menu_item_layout.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_action_menu_layout.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/notification_template_part_chronometer.xml",
+        "source": "de.blinkt.openvpn.vpnLib-core-1.1.0-0:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_activity_chooser_view.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/select_dialog_singlechoice_material.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_screen_simple.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_list_menu_item_icon.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_expanded_menu_layout.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_list_menu_item_checkbox.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/import_as_config.xml",
+        "source": "de.blinkt.openvpn.vpnLib-main-3:/layout/import_as_config.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_popup_menu_item_layout.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_alert_dialog_title_material.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_search_view.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/select_dialog_item_material.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/api_confirm.xml",
+        "source": "de.blinkt.openvpn.vpnLib-main-3:/layout/api_confirm.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/notification_action.xml",
+        "source": "de.blinkt.openvpn.vpnLib-core-1.1.0-0:/layout/notification_action.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_list_menu_item_radio.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_action_bar_title_item.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/select_dialog_multichoice_material.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/custom_dialog.xml",
+        "source": "de.blinkt.openvpn.vpnLib-core-1.1.0-0:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/notification_template_icon_group.xml",
+        "source": "de.blinkt.openvpn.vpnLib-core-1.1.0-0:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_action_bar_up_container.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/notification_template_part_time.xml",
+        "source": "de.blinkt.openvpn.vpnLib-core-1.1.0-0:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/userpass.xml",
+        "source": "de.blinkt.openvpn.vpnLib-main-3:/layout/userpass.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/notification_action_tombstone.xml",
+        "source": "de.blinkt.openvpn.vpnLib-core-1.1.0-0:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/abc_select_dialog_material.xml",
+        "source": "de.blinkt.openvpn.vpnLib-appcompat-1.1.0-2:/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.vpnLib-merged_res-9:/layout/launchvpn.xml",
+        "source": "de.blinkt.openvpn.vpnLib-main-3:/layout/launchvpn.xml"
+    }
+]

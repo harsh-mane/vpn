@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">651121154570</string>
+    <string name="google_api_key" translatable="false">AIzaSyD0wYOz5KVyzhozcsNRPFZQYl9CzGHN7fU</string>
+    <string name="google_app_id" translatable="false">1:651121154570:android:c9a699799e728ca8495df3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD0wYOz5KVyzhozcsNRPFZQYl9CzGHN7fU</string>
+    <string name="google_storage_bucket" translatable="false">freevpn-flutter-734db.firebasestorage.app</string>
+    <string name="project_id" translatable="false">freevpn-flutter-734db</string>
+</resources>

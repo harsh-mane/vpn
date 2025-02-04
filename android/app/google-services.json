@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651121154570",
+    "project_id": "freevpn-flutter-734db",
+    "storage_bucket": "freevpn-flutter-734db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651121154570:android:c9a699799e728ca8495df3",
+        "android_client_info": {
+          "package_name": "com.harshMane.secureSphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0wYOz5KVyzhozcsNRPFZQYl9CzGHN7fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
